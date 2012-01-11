@@ -1,6 +1,7 @@
 Basic Info
 
     C++ Argument parsing code by Colin Braley
+    Extremely simple.
     cab6gh@viginia.edu
 
 License:
