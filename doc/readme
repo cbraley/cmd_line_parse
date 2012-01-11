@@ -1,0 +1,3 @@
+Docuementation from Doxygen can be generated into this folder using:
+    cmake CMakeLists.txt
+    make doc
