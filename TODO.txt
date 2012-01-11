@@ -1,0 +1,10 @@
+Potential TODOs:
+    -Remove the ugly table ArgParser* parsers[6] from CommandLineParser.h
+    It's currently left in there to preserve backward compatibility with some other things...
+
+    -Add support for flag arguments as a specifial form of boolean arguments.
+
+    -Maybe add argument dependencies(e.g optional argument X can't be given if optional argument Y is not specified).
+
+    -Add support for argument constraints(e.g integer argument Z must havea  value in the range [0,10]
+
